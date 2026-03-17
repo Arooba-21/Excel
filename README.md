@@ -75,6 +75,7 @@ Advanced topics for **automation and professional Excel use**.
 35. **User Form in Excel** – VBA form design
 36. **Mail Merge** – Bulk emails using MS Word + Excel
 37. **Add PDF / PPT in Excel** – Insert objects
+38. Pivot tables
 
 ---
 
